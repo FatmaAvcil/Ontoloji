@@ -1,0 +1,333 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns="urn:webprotege:ontology:aa5ab84e-ffee-4595-ad5b-f61650eefb88#"
+     xml:base="urn:webprotege:ontology:aa5ab84e-ffee-4595-ad5b-f61650eefb88"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:owl="http://www.w3.org/2002/07/owl#"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:xml="http://www.w3.org/XML/1998/namespace"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <owl:Ontology rdf:about="urn:webprotege:ontology:aa5ab84e-ffee-4595-ad5b-f61650eefb88"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Annotation properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://purl.org/dc/elements/1.1/contributor -->
+
+    <owl:AnnotationProperty rdf:about="http://purl.org/dc/elements/1.1/contributor"/>
+    
+
+
+    <!-- http://purl.org/dc/elements/1.1/creator -->
+
+    <owl:AnnotationProperty rdf:about="http://purl.org/dc/elements/1.1/creator"/>
+    
+
+
+    <!-- http://purl.org/dc/elements/1.1/date -->
+
+    <owl:AnnotationProperty rdf:about="http://purl.org/dc/elements/1.1/date"/>
+    
+
+
+    <!-- http://purl.org/dc/elements/1.1/description -->
+
+    <owl:AnnotationProperty rdf:about="http://purl.org/dc/elements/1.1/description"/>
+    
+
+
+    <!-- http://purl.org/dc/elements/1.1/format -->
+
+    <owl:AnnotationProperty rdf:about="http://purl.org/dc/elements/1.1/format"/>
+    
+
+
+    <!-- http://purl.org/dc/elements/1.1/publisher -->
+
+    <owl:AnnotationProperty rdf:about="http://purl.org/dc/elements/1.1/publisher"/>
+    
+
+
+    <!-- http://purl.org/dc/elements/1.1/source -->
+
+    <owl:AnnotationProperty rdf:about="http://purl.org/dc/elements/1.1/source"/>
+    
+
+
+    <!-- http://purl.org/dc/elements/1.1/type -->
+
+    <owl:AnnotationProperty rdf:about="http://purl.org/dc/elements/1.1/type"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Object Properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://webprotege.stanford.edu/R70HOsk4atX24u38qgJd4Wr -->
+
+    <owl:ObjectProperty rdf:about="http://webprotege.stanford.edu/R70HOsk4atX24u38qgJd4Wr">
+        <rdfs:label xml:lang="tr">Çevirmen</rdfs:label>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R8g7PBbMggHfCm5ATtYLAqQ -->
+
+    <owl:ObjectProperty rdf:about="http://webprotege.stanford.edu/R8g7PBbMggHfCm5ATtYLAqQ">
+        <rdfs:label xml:lang="tr">İlk Yayınlama Tarihi</rdfs:label>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R8wLJvFG1rATyKbsPi5pEvc -->
+
+    <owl:ObjectProperty rdf:about="http://webprotege.stanford.edu/R8wLJvFG1rATyKbsPi5pEvc">
+        <rdfs:label xml:lang="tr">Yazar</rdfs:label>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RBd6mHxOqCzXuI5wIGELQoM -->
+
+    <owl:ObjectProperty rdf:about="http://webprotege.stanford.edu/RBd6mHxOqCzXuI5wIGELQoM">
+        <rdfs:label xml:lang="tr">Modern Klasikleri</rdfs:label>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RC3TuR0Qd8VO5JeeydWAfLl -->
+
+    <owl:ObjectProperty rdf:about="http://webprotege.stanford.edu/RC3TuR0Qd8VO5JeeydWAfLl">
+        <rdfs:label xml:lang="tr">seealso</rdfs:label>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RCEyxZSguiOBGE6gSRrNcGS -->
+
+    <owl:ObjectProperty rdf:about="http://webprotege.stanford.edu/RCEyxZSguiOBGE6gSRrNcGS">
+        <rdfs:label xml:lang="tr">Yayın evi</rdfs:label>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RCae8QVwQmfcQk8nUwsI6D6 -->
+
+    <owl:ObjectProperty rdf:about="http://webprotege.stanford.edu/RCae8QVwQmfcQk8nUwsI6D6">
+        <rdfs:label xml:lang="tr">kitap</rdfs:label>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Data properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://webprotege.stanford.edu/RBfZuAnwOzWyrabRBgEebmQ -->
+
+    <owl:DatatypeProperty rdf:about="http://webprotege.stanford.edu/RBfZuAnwOzWyrabRBgEebmQ">
+        <rdfs:label xml:lang="tr">Yayınevi</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RC3SmBqaKT8G1NqIRQRc2WE -->
+
+    <owl:DatatypeProperty rdf:about="http://webprotege.stanford.edu/RC3SmBqaKT8G1NqIRQRc2WE">
+        <rdfs:label xml:lang="tr">İlk Yayınlanma Tarihi</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RssTOBwcRiZ9zNg6jFFuvu -->
+
+    <owl:DatatypeProperty rdf:about="http://webprotege.stanford.edu/RssTOBwcRiZ9zNg6jFFuvu">
+        <rdfs:label xml:lang="tr">Açılış Tarihi</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Classes
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://webprotege.stanford.edu/R7QyEhsSbW9Dis384EWeSuj -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R7QyEhsSbW9Dis384EWeSuj">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RoWbshsxwxn6exjoVHcl0J"/>
+        <dc:date rdf:datatype="http://www.w3.org/2001/XMLSchema#string">28 Mart 1868/18 Haziran 1936</dc:date>
+        <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Aleksey Maksimoviç Peşkov, en çok bilinen adı ile Maksim Gorki, Sovyet Rus yazar, sosyalist gerçekçi yazımın öncüsü politik eylemcidir.</rdfs:comment>
+        <rdfs:label xml:lang="tr">Maksim Gorki</rdfs:label>
+        <rdfs:seeAlso rdf:resource="https://tr.wikipedia.org/wiki/Maksim_Gorki"/>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RCT8JRjbZhlUkt7JIa0QUxm -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RCT8JRjbZhlUkt7JIa0QUxm">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/R7QyEhsSbW9Dis384EWeSuj"/>
+        <rdfs:label xml:lang="tr">Rus Edebiyatı</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RCyWgsnzTXHhwMGeRUwx2gM -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RCyWgsnzTXHhwMGeRUwx2gM">
+        <dc:description rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Kitap, bir kenarından birleştirilerek dışına kapak takılmış yani ciltlenmiş, (kâğıt, parşömen vb. malzemeden üretilmiş) üzeri baskılı sayfaların toplamıdır.</dc:description>
+        <rdfs:label xml:lang="tr">Kitap</rdfs:label>
+        <rdfs:seeAlso rdf:resource="https://tr.wikipedia.org/wiki/Kitap"/>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RD1H1emXNNMkqBwfVdlNonK -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RD1H1emXNNMkqBwfVdlNonK">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RCT8JRjbZhlUkt7JIa0QUxm"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://webprotege.stanford.edu/R8wLJvFG1rATyKbsPi5pEvc"/>
+                <owl:someValuesFrom rdf:resource="http://webprotege.stanford.edu/R7QyEhsSbW9Dis384EWeSuj"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://webprotege.stanford.edu/R70HOsk4atX24u38qgJd4Wr"/>
+                <owl:hasValue rdf:resource="http://webprotege.stanford.edu/R840DgOdqRVYfCdvuXSdGlU"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://webprotege.stanford.edu/R8g7PBbMggHfCm5ATtYLAqQ"/>
+                <owl:hasValue rdf:resource="http://webprotege.stanford.edu/R9SdmZVssSfhR9LNAxYbRnv"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://webprotege.stanford.edu/RCEyxZSguiOBGE6gSRrNcGS"/>
+                <owl:hasValue rdf:resource="http://webprotege.stanford.edu/RBdftSdvRAx8Zt8vqUHbsf2"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <dc:contributor rdf:datatype="http://www.w3.org/2001/XMLSchema#string">çev.Mazlum Beyhan</dc:contributor>
+        <dc:creator xml:lang="tr">Maksim Gorki</dc:creator>
+        <dc:date rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2015</dc:date>
+        <dc:description xml:lang="tr">Ekmeğimi Kazanırken, Gorki’nin otobiyografik üçlemesinin ikinci kitabıdır. Yazarın hayatı ve insanları tanıma, Rus orta sınıfının, köylülerin, işçilerin mücadelelerine tanık olma sürecini anlatır.</dc:description>
+        <dc:format rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Kitap</dc:format>
+        <dc:publisher rdf:datatype="http://www.w3.org/2001/XMLSchema#string">İş Bankası Kültür Yayınları</dc:publisher>
+        <dc:source rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Maksim Gorki&apos;nin Otobiyografisi</dc:source>
+        <dc:type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Otobiyografi</dc:type>
+        <rdfs:label xml:lang="tr">Ekmeğini Kazanırken</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RoWbshsxwxn6exjoVHcl0J -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RoWbshsxwxn6exjoVHcl0J">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/Rv9W12KNKaVreXb11b4iGZ"/>
+        <dc:description xml:lang="tr">Otobiyografi ya da öz yaşam öyküsü, yazarın kendi yaşam öyküsünü anlattığı edebiyat türüdür.</dc:description>
+        <rdfs:label xml:lang="tr">Otobiyografi</rdfs:label>
+        <rdfs:seeAlso rdf:resource="https://tr.wikipedia.org/wiki/Otobiyografi"/>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/Rv9W12KNKaVreXb11b4iGZ -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/Rv9W12KNKaVreXb11b4iGZ">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RCyWgsnzTXHhwMGeRUwx2gM"/>
+        <dc:description xml:lang="tr">Kurgusal olmayan kitaplar, gerçek bilgileri içeren(biyografi, tarihi kitaplar gibi) kitap türüdür.</dc:description>
+        <rdfs:label xml:lang="tr">Kurgusal Olmayan Kitap</rdfs:label>
+        <rdfs:seeAlso rdf:resource="https://reference.yourdictionary.com/books-literature/different-types-of-books.html"/>
+    </owl:Class>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Individuals
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://webprotege.stanford.edu/R840DgOdqRVYfCdvuXSdGlU -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/R840DgOdqRVYfCdvuXSdGlU">
+        <rdfs:label xml:lang="tr">Mazlum Beyhan</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R9SdmZVssSfhR9LNAxYbRnv -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/R9SdmZVssSfhR9LNAxYbRnv">
+        <rdfs:label xml:lang="tr">20.yy,1916</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RBCrRcYlpin0bItsCYryiOi -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RBCrRcYlpin0bItsCYryiOi">
+        <rdfs:label xml:lang="tr">Ekim 1953</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RBdftSdvRAx8Zt8vqUHbsf2 -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RBdftSdvRAx8Zt8vqUHbsf2">
+        <rdfs:label xml:lang="tr">İş Bankası Kültür Yayınları </rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RZQ4Vd6bBWfgu4sKOTkJJt -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RZQ4Vd6bBWfgu4sKOTkJJt">
+        <rdfs:label xml:lang="tr">Maksim Gorki</rdfs:label>
+    </owl:NamedIndividual>
+</rdf:RDF>
+
+
+
+<!-- Generated by the OWL API (version 4.5.13) https://github.com/owlcs/owlapi -->
+
